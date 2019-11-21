@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     <!-- Laravel -->
-                    Zenta Hapsari
+                    Zenta manakutahu
                 </div>
 
                 <div class="links">
